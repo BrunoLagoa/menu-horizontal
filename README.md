@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone o repositório em sua máquina:
 
-`git clone https://github.com/BrunoLagoa/bikcraft.git`
+`git clone https://brunolagoa.github.io/menu-horizontal.git`
 
 Execute o arquivo `index.html`
 
